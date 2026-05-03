@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gnptd5.10depositcasino.co.nz/sitemap.xml
